@@ -1,0 +1,1 @@
+../../applications/dotfiles/local/.local/bin/barstart
