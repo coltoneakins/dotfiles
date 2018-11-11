@@ -8,15 +8,15 @@
 
 ## Packages
 
-i3-gaps
-Emacs (Spacemacs)
-Termite
-Rofi
-Polybar
-Fish
-Compton
-Nitrogren
-Neofetch
+- i3-gaps
+- Emacs (Spacemacs)
+- Termite
+- Rofi
+- Polybar
+- Fish
+- Compton
+- Nitrogren
+- Neofetch
 
 ## Font
 
