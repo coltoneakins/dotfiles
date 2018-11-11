@@ -2,9 +2,9 @@
 
 ## Screenshots
 
-![alt text](2018-11-11-124451_1600x900_scrot.png "i3-gaps with multiple programs open")
+![alt text](screenshots/2018-11-11-124451_1600x900_scrot.png "i3-gaps with multiple programs open")
 
-![alt text](2018-11-11-124607_1600x900_scrot.png "Plain desktop")
+![alt text](screenshots/2018-11-11-124607_1600x900_scrot.png "Plain desktop")
 
 ## Packages
 
