@@ -1,1 +1,7 @@
-../../applications/dotfiles/config/polybar/.config/polybar/vpn
+#!/usr/bin/fish
+
+if pgrep openvpn
+	echo "VPN Up"
+else
+	echo "VPN Down"
+end
